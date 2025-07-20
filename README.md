@@ -1,4 +1,4 @@
-# Sales-Analysis-Dashardboard
+# Sales-Analysis-Dashboard
 Excel Dashboard project analyzing sales data using pivot tables and charts.
 ## Project Overview
 This Excel site provides insight into sale performance using
